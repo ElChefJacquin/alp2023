@@ -9,7 +9,7 @@ const questao8 = document.getElementById("0508");
 
 questao1.addEventListener("click", function () {
 var v1 = (8+9+7)/3;
-var v2 = (5+6+7)/3;
+var v2 = (4+5+6)/3;
 var v3 = (v2+v1)/2;
 alert(`A média final das notas é de ${v3}`)
 });
